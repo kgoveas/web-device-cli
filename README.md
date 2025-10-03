@@ -13,7 +13,7 @@ A Web Command Line Interface via NUS (Nordic UART Service) using [Web Bluetooth]
 ## Try it out
 This repo has a live web page hosted here:
 
-**[https://makerdiary.github.io/web-device-cli](https://makerdiary.github.io/web-device-cli)**
+**[Web-device-CLI](https://kgoveas.github.io/web-device-cli/)**
 
 ## Flashing CLI firmware
 
